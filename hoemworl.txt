@@ -1,0 +1,1 @@
+comment, variable,operator,conditional,loop,function in js
