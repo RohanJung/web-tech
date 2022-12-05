@@ -1,1 +1,0 @@
-confirm( "Do you want to click yes")
